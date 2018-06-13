@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-TDevcampViewTool::Renderer.copyright 'Jacquot', 'All rights reserved'
+MyViewTool::Renderer.copyright 'Jacquot', 'All rights reserved'
 ```
 
 ## Development
